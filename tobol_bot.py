@@ -1,9 +1,9 @@
 import telebot
-import os
+#import os
 
-#bot = telebot.TeleBot('1169393172:AAHP_ljzjUs2OmENifNNJWuUH2yRg9h7ty0')
-token=os.environ.get('BOT_TOKEN')
-bot.run(str(token))
+bot = telebot.TeleBot('1169393172:AAHP_ljzjUs2OmENifNNJWuUH2yRg9h7ty0')
+#token=os.environ.get('BOT_TOKEN')
+#bot.run(str(token))
 profile =[0,0,0,0,0,0,0,0,0,0,0,0]
 a1=''
 b=''
