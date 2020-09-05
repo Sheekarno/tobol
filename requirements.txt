@@ -1,3 +1,2 @@
 telebot
 os
-pyTelegramBotAPI 0.3.0
