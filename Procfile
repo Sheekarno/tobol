@@ -1,0 +1,1 @@
+worker: python tobol_bot.py
