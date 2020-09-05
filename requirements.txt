@@ -1,2 +1,2 @@
-telebot.py
-os.py
+telebot
+os
